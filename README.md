@@ -20,6 +20,8 @@
 
 - 🔭 I’m currently working on **embedded infrastructure tools**.
 - 🦀 I use **Rust** for the core engine and **Python** for simple APIs.
+- 🤖 I’m a **vibe coder** and **AI-assisted builder**.
+- 🧩 I work with **prompt engineering**, rapid prototyping, and product ideas.
 - 🧠 I like projects that remove unnecessary infrastructure.
 - ⚡ My focus is: **durable local state, simple APIs, reliability**.
 - 📦 I publish tools that can be installed with `pip`.
@@ -37,6 +39,9 @@
   <img src="https://img.shields.io/badge/Tokio-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/OpenRaft-2563eb?style=flat-square" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Assisted-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-ec4899?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vibe_Coding-06b6d4?style=flat-square" />
 </p>
 
 <p>
@@ -55,6 +60,8 @@ small tools
 clear APIs
 local-first infrastructure
 durable state
+AI-assisted development
+prompt engineering
 less Redis
 less complexity
 ```
