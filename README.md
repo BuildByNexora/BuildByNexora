@@ -26,50 +26,6 @@
 
 ---
 
-## Main Projects
-
-### 🕒 Kron
-
-Persistent scheduling for Python applications.
-
-```bash
-pip install kron-scheduler
-```
-
-What it does:
-
-- durable timers;
-- retries;
-- run history;
-- crash recovery;
-- overlap control;
-- Rust core + Python bindings.
-
-👉 [Repository](https://github.com/BuildByNexora/Kron) · [PyPI](https://pypi.org/project/kron-scheduler/)
-
----
-
-### 🔥 Flint
-
-Persistent rate limiting without Redis.
-
-```bash
-pip install flint-limiter
-```
-
-What it does:
-
-- token bucket;
-- fixed window;
-- sliding window;
-- persistent counters;
-- FastAPI middleware;
-- Prometheus metrics.
-
-👉 [Repository](https://github.com/BuildByNexora/Flint) · [PyPI](https://pypi.org/project/flint-limiter/)
-
----
-
 ## Technologies I Use
 
 <p>
@@ -117,4 +73,3 @@ less complexity
 <p align="center">
   <b>Building the SQLite-style infrastructure primitives I wish existed.</b>
 </p>
-
