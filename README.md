@@ -3,6 +3,9 @@
 <h3 align="center">I build small open-source infrastructure tools with Rust and Python.</h3>
 
 <p align="center">
+  <a href="https://github.com/BuildByNexora/Forge">
+    <img src="https://img.shields.io/badge/Forge-job%20queue-22c55e?style=for-the-badge" />
+  </a>
   <a href="https://github.com/BuildByNexora/Kron">
     <img src="https://img.shields.io/badge/Kron-persistent%20scheduler-0969da?style=for-the-badge" />
   </a>
@@ -64,6 +67,7 @@ AI-assisted development
 prompt engineering
 less Redis
 less complexity
+local-first job queues
 ```
 
 ---
